@@ -10,3 +10,6 @@
 testing/unstable), or the latest stable version of Rocky. Debian is highly recommended
 if you are new to system administration.
 
+<p align="center">
+<img src="ressources/partitions.png">
+  </p>
