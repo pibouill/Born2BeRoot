@@ -4,6 +4,8 @@
 
 # Born2BeRoot
 
+### Main part
+
 >This project consists of having you set up your first server by following specific rules.
 
 >You must choose as an operating system either the latest stable version of Debian (no
